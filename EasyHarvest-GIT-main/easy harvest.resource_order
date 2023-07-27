@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_food","order":4,"path":"objects/obj_food/obj_food.yy",},
+    {"name":"spr_harvets","order":6,"path":"sprites/spr_harvets/spr_harvets.yy",},
+    {"name":"F_Table","order":1,"path":"fonts/F_Table/F_Table.yy",},
+    {"name":"obj_main_menu","order":7,"path":"objects/obj_main_menu/obj_main_menu.yy",},
+    {"name":"obj_border","order":5,"path":"objects/obj_border/obj_border.yy",},
+    {"name":"rm_stats","order":1,"path":"rooms/rm_stats/rm_stats.yy",},
+    {"name":"obj_title","order":6,"path":"objects/obj_title/obj_title.yy",},
+    {"name":"sprite_green_bar","order":1,"path":"sprites/sprite_green_bar/sprite_green_bar.yy",},
+    {"name":"obj_guide","order":2,"path":"objects/obj_guide/obj_guide.yy",},
+    {"name":"obj_metal","order":1,"path":"objects/obj_metal/obj_metal.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"obj_harvest_screen","order":8,"path":"objects/obj_harvest_screen/obj_harvest_screen.yy",},
+    {"name":"spr_wisdom","order":5,"path":"sprites/spr_wisdom/spr_wisdom.yy",},
+  ],
+}
